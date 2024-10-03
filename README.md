@@ -1,6 +1,6 @@
 <img height="90" alt="Slonik Duke" align="right" src="docs/static/images/slonik_duke.png" />
 
-# PostgreSQL JDBC Driver
+# PostgreSQL JDBC Driver fork of kneeraj
 
 PostgreSQL JDBC Driver (PgJDBC for short) allows Java programs to connect to a PostgreSQL database using standard, database independent Java code. Is an open source JDBC driver written in Pure Java (Type 4), and communicates in the PostgreSQL native network protocol.
 
